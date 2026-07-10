@@ -1,0 +1,3 @@
+# Org catalog JSON (~1M, regenerable raw dump) — kept locally, not in git
+organizations_*.json
+*.docx
